@@ -1,0 +1,13 @@
+{
+  "name": "Tide & Town",
+  "slug": "tide-and-town",
+  "mark": "mark.svg",
+  "wordmark": "wordmark.svg",
+  "primaryTheme": "light",
+  "themes": {
+    "light": { "background": "#F5F0E6", "primary": "#5546B0", "secondary": "#EAAF3D", "text": "#272333" },
+    "dark": { "background": "#272333", "primary": "#CEC5FF", "secondary": "#F4CA72", "text": "#F5F0E6" }
+  },
+  "platforms": ["web", "ios", "android", "sharing"],
+  "iconScale": 0.72
+}

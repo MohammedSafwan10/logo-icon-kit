@@ -1,0 +1,4 @@
+interface:
+  display_name: "Logo & Icon Kit"
+  short_description: "Explore logos and export consistent platform icon kits"
+  default_prompt: "Use $logo-icon-kit to design a distinctive logo and prepare a reusable app, favicon, and sharing asset kit."

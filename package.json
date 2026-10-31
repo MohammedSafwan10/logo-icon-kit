@@ -1,0 +1,15 @@
+{
+  "name": "logo-icon-kit-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reusable agent workflow and deterministic exporter for logo and platform icon kits.",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "example": "node scripts/export-kit.mjs --config examples/tide-and-town/brand.json --out output/example",
+    "verify:example": "node scripts/verify-kit.mjs output/example",
+    "test": "node --test"
+  },
+  "dependencies": { "sharp": "0.35.5" },
+  "license": "MIT"
+}
